@@ -1,0 +1,24 @@
+queston 1
+create a get todos endpoint
+- when I hit the todos endpoint return for me this array
+[
+    {
+    title:'church'
+    description:'I have church tommorow'
+},
+ {
+    title:'school'
+    description:'I have school tommorow'
+},
+]
+
+queston2
+create a post endpoint which should return what I post
+ forexample if I send
+  {
+     title:"wohjhj
+     rk",
+     description:"work on some  things "
+ }
+ I should get back that same object
+ do not hard code the response
